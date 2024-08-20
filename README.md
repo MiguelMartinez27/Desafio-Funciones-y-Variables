@@ -1,4 +1,4 @@
-# Desafío - Estructuras de Datos y Funciones (I)
+# Desafío - Estructuras de Datos y Funciones (II)
 ##### Desafío - Estructuras de Datos y Funciones (II) correspondiente al bootcamp fullstack python.
 Este repositorio contiene los archivos para ejecutar "filtro.py", "velocidad.py" y "ong.py". estos incluyen el uso de datos y funciones en python.
 
